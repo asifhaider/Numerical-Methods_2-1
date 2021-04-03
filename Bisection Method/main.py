@@ -3,7 +3,7 @@
 Solution to the Assignment on Bisection Method
 Author: Md. Asif Haider
 Student ID: 1805112
-Date: 19 March 2021
+Date: March 19, 2021
 
 """
 import plot as plt
